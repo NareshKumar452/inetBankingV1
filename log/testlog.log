@@ -1,0 +1,121 @@
+2021-05-01 21:13:07,447 - inetBanking -INFO - URL is opened
+2021-05-01 21:13:07,906 - inetBanking -INFO - Entered Username
+2021-05-01 21:13:08,016 - inetBanking -INFO - Entered password
+2021-05-01 21:13:09,511 - inetBanking -INFO - clicked on Login Button
+2021-05-01 21:13:09,530 - inetBanking -INFO - Login test passed
+2021-05-03 07:24:17,917 - inetBanking -INFO - URL is opened
+2021-05-03 07:24:20,661 - inetBanking -INFO - Entered Username
+2021-05-03 07:24:20,814 - inetBanking -INFO - Entered password
+2021-05-03 07:24:22,695 - inetBanking -INFO - clicked on Login Button
+2021-05-03 07:24:22,746 - inetBanking -INFO - Login test passed
+2021-05-03 07:42:40,411 - inetBanking -INFO - URL is opened
+2021-05-03 07:42:40,649 - inetBanking -INFO - Entered Username
+2021-05-03 07:42:40,786 - inetBanking -INFO - Entered password
+2021-05-03 07:42:42,499 - inetBanking -INFO - clicked on Login Button
+2021-05-03 08:41:00,528 - inetBanking -INFO - user name provided
+2021-05-03 08:41:00,788 - inetBanking -INFO - pwd name provided
+2021-05-03 08:41:07,418 - inetBanking -INFO - logged out
+2021-05-03 08:41:12,103 - inetBanking -INFO - user name provided
+2021-05-03 08:41:12,203 - inetBanking -INFO - pwd name provided
+2021-05-03 08:41:18,093 - inetBanking -INFO - logged out
+2021-05-03 08:41:22,822 - inetBanking -INFO - user name provided
+2021-05-03 08:41:22,926 - inetBanking -INFO - pwd name provided
+2021-05-03 08:41:28,119 - inetBanking -INFO - user name provided
+2021-05-03 08:41:28,218 - inetBanking -INFO - pwd name provided
+2021-05-03 08:41:33,372 - inetBanking -INFO - logged out
+2021-05-03 08:41:37,826 - inetBanking -INFO - user name provided
+2021-05-03 08:41:37,935 - inetBanking -INFO - pwd name provided
+2021-05-03 08:41:42,830 - inetBanking -INFO - logged out
+2021-05-03 09:52:45,373 - inetBanking -INFO - user name provided
+2021-05-03 09:52:45,774 - inetBanking -INFO - pwd name provided
+2021-05-03 10:51:54,944 - inetBanking -INFO - Entering all Customer details
+2021-05-03 10:59:19,338 - inetBanking -INFO - Entering all Customer details
+2021-05-03 11:01:55,221 - inetBanking -INFO - Entering all Customer details
+2021-05-03 11:02:05,096 - inetBanking -INFO - New Customer Registration done
+2021-05-03 11:03:55,314 - inetBanking -INFO - URL is opened
+2021-05-03 11:03:55,654 - inetBanking -INFO - Entered Username
+2021-05-03 11:03:55,790 - inetBanking -INFO - Entered password
+2021-05-03 11:03:57,499 - inetBanking -INFO - clicked on Login Button
+2021-05-03 11:03:57,509 - inetBanking -INFO - Login test passed
+2021-05-03 11:04:06,714 - inetBanking -INFO - user name provided
+2021-05-03 11:04:06,810 - inetBanking -INFO - pwd name provided
+2021-05-03 11:04:13,901 - inetBanking -INFO - logged out
+2021-05-03 11:04:18,938 - inetBanking -INFO - user name provided
+2021-05-03 11:04:19,034 - inetBanking -INFO - pwd name provided
+2021-05-03 11:04:24,030 - inetBanking -INFO - logged out
+2021-05-03 11:04:28,773 - inetBanking -INFO - user name provided
+2021-05-03 11:04:28,887 - inetBanking -INFO - pwd name provided
+2021-05-03 11:04:34,058 - inetBanking -INFO - user name provided
+2021-05-03 11:04:34,161 - inetBanking -INFO - pwd name provided
+2021-05-03 11:04:39,554 - inetBanking -INFO - logged out
+2021-05-03 11:04:44,300 - inetBanking -INFO - user name provided
+2021-05-03 11:04:44,400 - inetBanking -INFO - pwd name provided
+2021-05-03 11:04:50,538 - inetBanking -INFO - logged out
+2021-05-03 11:05:12,562 - inetBanking -INFO - Entering all Customer details
+2021-05-03 11:05:22,647 - inetBanking -INFO - New Customer Registration done
+2021-05-03 13:09:58,391 - inetBanking -INFO - URL is opened
+2021-05-03 13:09:59,665 - inetBanking -INFO - Entered Username
+2021-05-03 13:09:59,778 - inetBanking -INFO - Entered password
+2021-05-03 13:10:01,749 - inetBanking -INFO - clicked on Login Button
+2021-05-03 13:10:01,804 - inetBanking -INFO - Login test passed
+2021-05-03 13:10:12,268 - inetBanking -INFO - user name provided
+2021-05-03 13:10:12,368 - inetBanking -INFO - pwd name provided
+2021-05-03 13:10:18,763 - inetBanking -INFO - logged out
+2021-05-03 13:10:23,749 - inetBanking -INFO - user name provided
+2021-05-03 13:10:23,918 - inetBanking -INFO - pwd name provided
+2021-05-03 13:10:29,542 - inetBanking -INFO - logged out
+2021-05-03 13:10:34,237 - inetBanking -INFO - user name provided
+2021-05-03 13:10:34,348 - inetBanking -INFO - pwd name provided
+2021-05-03 13:10:39,731 - inetBanking -INFO - user name provided
+2021-05-03 13:10:39,830 - inetBanking -INFO - pwd name provided
+2021-05-03 13:10:45,069 - inetBanking -INFO - logged out
+2021-05-03 13:10:49,978 - inetBanking -INFO - user name provided
+2021-05-03 13:10:50,083 - inetBanking -INFO - pwd name provided
+2021-05-03 13:10:55,829 - inetBanking -INFO - logged out
+2021-05-03 13:11:36,126 - inetBanking -INFO - Entering all Customer details
+2021-05-03 15:14:01,993 - inetBanking -INFO - URL is opened
+2021-05-03 15:14:03,734 - inetBanking -INFO - Entered Username
+2021-05-03 15:14:03,862 - inetBanking -INFO - Entered password
+2021-05-03 15:14:06,002 - inetBanking -INFO - clicked on Login Button
+2021-05-03 15:14:06,131 - inetBanking -INFO - Login test passed
+2021-05-03 15:14:21,252 - inetBanking -INFO - Entering all Customer details
+2021-05-03 15:14:28,955 - inetBanking -INFO - New Customer Registration done
+2021-05-04 06:49:07,474 - inetBanking -INFO - URL is opened
+2021-05-04 06:49:08,093 - inetBanking -INFO - Entered Username
+2021-05-04 06:49:08,206 - inetBanking -INFO - Entered password
+2021-05-04 06:49:09,190 - inetBanking -INFO - clicked on Login Button
+2021-05-04 06:49:09,206 - inetBanking -INFO - Login test passed
+2021-05-04 06:49:19,625 - inetBanking -INFO - Entering all Customer details
+2021-05-04 06:49:25,346 - inetBanking -INFO - New Customer Registration done
+2021-05-04 06:56:22,341 - inetBanking -INFO - URL is opened
+2021-05-04 06:56:23,145 - inetBanking -INFO - Entered Username
+2021-05-04 06:56:23,256 - inetBanking -INFO - Entered password
+2021-05-04 06:56:24,784 - inetBanking -INFO - clicked on Login Button
+2021-05-04 06:56:24,808 - inetBanking -INFO - Login test passed
+2021-05-04 06:56:35,468 - inetBanking -INFO - Entering all Customer details
+2021-05-04 06:56:41,275 - inetBanking -INFO - New Customer Registration done
+2021-05-04 08:15:34,438 - inetBanking -INFO - URL is opened
+2021-05-04 08:15:36,117 - inetBanking -INFO - Entered Username
+2021-05-04 08:15:36,234 - inetBanking -INFO - Entered password
+2021-05-04 08:15:38,051 - inetBanking -INFO - clicked on Login Button
+2021-05-04 08:15:38,121 - inetBanking -INFO - Login test passed
+2021-05-04 08:15:50,473 - inetBanking -INFO - Entering all Customer details
+2021-05-04 08:17:00,517 - inetBanking -INFO - URL is opened
+2021-05-04 08:17:01,017 - inetBanking -INFO - Entered Username
+2021-05-04 08:17:01,130 - inetBanking -INFO - Entered password
+2021-05-04 08:17:02,830 - inetBanking -INFO - clicked on Login Button
+2021-05-04 08:17:02,853 - inetBanking -INFO - Login test passed
+2021-05-04 08:17:16,119 - inetBanking -INFO - Entering all Customer details
+2021-05-04 08:17:22,257 - inetBanking -INFO - New Customer Registration done
+2021-05-04 09:12:00,359 - inetBanking -INFO - URL is opened
+2021-05-04 09:12:01,192 - inetBanking -INFO - Entered Username
+2021-05-04 09:12:01,288 - inetBanking -INFO - Entered password
+2021-05-04 09:12:03,000 - inetBanking -INFO - clicked on Login Button
+2021-05-04 09:12:03,041 - inetBanking -INFO - Login test passed
+2021-05-04 09:39:49,203 - inetBanking -INFO - URL is opened
+2021-05-04 09:39:50,159 - inetBanking -INFO - Entered Username
+2021-05-04 09:39:50,247 - inetBanking -INFO - Entered password
+2021-05-04 09:39:52,063 - inetBanking -INFO - clicked on Login Button
+2021-05-04 09:39:52,127 - inetBanking -INFO - Login test passed
+2021-05-04 09:40:04,343 - inetBanking -INFO - Entering all Customer details
+2021-05-04 09:40:10,399 - inetBanking -INFO - New Customer Registration done
