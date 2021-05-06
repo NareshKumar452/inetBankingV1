@@ -107,15 +107,3 @@
 2021-05-04 08:17:02,853 - inetBanking -INFO - Login test passed
 2021-05-04 08:17:16,119 - inetBanking -INFO - Entering all Customer details
 2021-05-04 08:17:22,257 - inetBanking -INFO - New Customer Registration done
-2021-05-04 09:12:00,359 - inetBanking -INFO - URL is opened
-2021-05-04 09:12:01,192 - inetBanking -INFO - Entered Username
-2021-05-04 09:12:01,288 - inetBanking -INFO - Entered password
-2021-05-04 09:12:03,000 - inetBanking -INFO - clicked on Login Button
-2021-05-04 09:12:03,041 - inetBanking -INFO - Login test passed
-2021-05-04 09:39:49,203 - inetBanking -INFO - URL is opened
-2021-05-04 09:39:50,159 - inetBanking -INFO - Entered Username
-2021-05-04 09:39:50,247 - inetBanking -INFO - Entered password
-2021-05-04 09:39:52,063 - inetBanking -INFO - clicked on Login Button
-2021-05-04 09:39:52,127 - inetBanking -INFO - Login test passed
-2021-05-04 09:40:04,343 - inetBanking -INFO - Entering all Customer details
-2021-05-04 09:40:10,399 - inetBanking -INFO - New Customer Registration done
