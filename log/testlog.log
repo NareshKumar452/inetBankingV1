@@ -107,3 +107,32 @@
 2021-05-04 08:17:02,853 - inetBanking -INFO - Login test passed
 2021-05-04 08:17:16,119 - inetBanking -INFO - Entering all Customer details
 2021-05-04 08:17:22,257 - inetBanking -INFO - New Customer Registration done
+2021-05-06 08:04:49,935 - inetBanking -INFO - user name provided
+2021-05-06 08:04:50,279 - inetBanking -INFO - pwd name provided
+2021-05-06 08:05:01,760 - inetBanking -INFO - logged out
+2021-05-06 08:05:06,889 - inetBanking -INFO - user name provided
+2021-05-06 08:05:07,009 - inetBanking -INFO - pwd name provided
+2021-05-06 08:05:12,874 - inetBanking -INFO - logged out
+2021-05-06 08:05:17,360 - inetBanking -INFO - user name provided
+2021-05-06 08:05:17,468 - inetBanking -INFO - pwd name provided
+2021-05-06 08:05:22,400 - inetBanking -INFO - user name provided
+2021-05-06 08:05:22,509 - inetBanking -INFO - pwd name provided
+2021-05-06 08:05:27,339 - inetBanking -INFO - logged out
+2021-05-06 08:05:32,545 - inetBanking -INFO - user name provided
+2021-05-06 08:05:32,644 - inetBanking -INFO - pwd name provided
+2021-05-06 08:05:37,808 - inetBanking -INFO - logged out
+2021-05-06 08:07:21,076 - inetBanking -INFO - user name provided
+2021-05-06 08:07:21,229 - inetBanking -INFO - pwd name provided
+2021-05-06 08:07:26,695 - inetBanking -INFO - logged out
+2021-05-06 08:07:31,254 - inetBanking -INFO - user name provided
+2021-05-06 08:07:31,356 - inetBanking -INFO - pwd name provided
+2021-05-06 08:07:36,358 - inetBanking -INFO - logged out
+2021-05-06 08:07:41,285 - inetBanking -INFO - user name provided
+2021-05-06 08:07:41,430 - inetBanking -INFO - pwd name provided
+2021-05-06 08:07:46,552 - inetBanking -INFO - login failed
+2021-05-06 08:07:46,695 - inetBanking -INFO - user name provided
+2021-05-06 08:07:46,817 - inetBanking -INFO - pwd name provided
+2021-05-06 08:07:51,930 - inetBanking -INFO - logged out
+2021-05-06 08:07:56,765 - inetBanking -INFO - user name provided
+2021-05-06 08:07:56,870 - inetBanking -INFO - pwd name provided
+2021-05-06 08:08:01,936 - inetBanking -INFO - logged out

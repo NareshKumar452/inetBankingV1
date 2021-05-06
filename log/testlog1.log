@@ -107,3 +107,32 @@
 2021-05-04 08:17:02,853 [main] INFO inetBanking - Login test passed
 2021-05-04 08:17:16,119 [main] INFO inetBanking - Entering all Customer details
 2021-05-04 08:17:22,257 [main] INFO inetBanking - New Customer Registration done
+2021-05-06 08:04:49,935 [main] INFO inetBanking - user name provided
+2021-05-06 08:04:50,279 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:05:01,760 [main] INFO inetBanking - logged out
+2021-05-06 08:05:06,889 [main] INFO inetBanking - user name provided
+2021-05-06 08:05:07,009 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:05:12,874 [main] INFO inetBanking - logged out
+2021-05-06 08:05:17,360 [main] INFO inetBanking - user name provided
+2021-05-06 08:05:17,468 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:05:22,400 [main] INFO inetBanking - user name provided
+2021-05-06 08:05:22,509 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:05:27,339 [main] INFO inetBanking - logged out
+2021-05-06 08:05:32,545 [main] INFO inetBanking - user name provided
+2021-05-06 08:05:32,644 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:05:37,808 [main] INFO inetBanking - logged out
+2021-05-06 08:07:21,076 [main] INFO inetBanking - user name provided
+2021-05-06 08:07:21,229 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:07:26,695 [main] INFO inetBanking - logged out
+2021-05-06 08:07:31,254 [main] INFO inetBanking - user name provided
+2021-05-06 08:07:31,356 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:07:36,358 [main] INFO inetBanking - logged out
+2021-05-06 08:07:41,285 [main] INFO inetBanking - user name provided
+2021-05-06 08:07:41,430 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:07:46,552 [main] INFO inetBanking - login failed
+2021-05-06 08:07:46,695 [main] INFO inetBanking - user name provided
+2021-05-06 08:07:46,817 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:07:51,930 [main] INFO inetBanking - logged out
+2021-05-06 08:07:56,765 [main] INFO inetBanking - user name provided
+2021-05-06 08:07:56,870 [main] INFO inetBanking - pwd name provided
+2021-05-06 08:08:01,936 [main] INFO inetBanking - logged out

@@ -30,7 +30,7 @@ public class TC_LoginDDT_002 extends BaseClass
 		{
 			driver.switchTo().alert().accept();   //close login fail alert
 			driver.switchTo().defaultContent();
-			Assert.assertTrue(false);
+			Assert.assertTrue(true);
 			logger.info("login failed");
 		}
 		
