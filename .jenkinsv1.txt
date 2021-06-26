@@ -1,44 +1,12 @@
-pipeline
-{
-agent any
+pipeline {
+    agent any
 
-
-stage("Build")
-{
-steps
-{
-bat "mvn clean"
-}
-}
-stage("deploy")
-{
-steps
-{
-echo "deploying the code"
-}
-}
-stage("test")
-{
-steps
-{
-bat "mvn test"
-}
-}
-stage("Unit Testing")
-{
-steps
-{
-bat "mvn compile"
-}
-}
-
-stage("Release")
-{
-steps
-{
-}
-}
-
-
-
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello World'
+                git 'https://github.com/NareshKumar452/inetBankingV1.git'
+            }
+        }
+    }
 }
