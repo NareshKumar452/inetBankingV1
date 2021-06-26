@@ -2,9 +2,27 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('Build') {
             steps {
-                echo 'Hello World'
+                echo 'Build success'
+                git 'https://github.com/NareshKumar452/inetBankingV1.git'
+            }
+        }
+stage('deploy') {
+            steps {
+                echo 'deploy success'
+                git 'https://github.com/NareshKumar452/inetBankingV1.git'
+            }
+        }
+stage('test') {
+            steps {
+                echo 'test success'
+                git 'https://github.com/NareshKumar452/inetBankingV1.git'
+            }
+        }
+stage('release') {
+            steps {
+                echo 'release success'
                 git 'https://github.com/NareshKumar452/inetBankingV1.git'
             }
         }
