@@ -18,7 +18,7 @@ public class TC_LoginTest_001 extends BaseClass
 		logger.info("URL is opened");
 		
 		LoginPage lp = new LoginPage(driver);
-		lp.setUserName(username)
+		lp.setUserName(username);
 		logger.info("Entered Username");
 		lp.setPassword(password);
 		logger.info("Entered password");
