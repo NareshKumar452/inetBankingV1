@@ -1,108 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="5" passed="5">
+<testng-results skipped="1" failed="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="inetBankingV1" duration-ms="69074" started-at="2021-05-06T02:36:58Z" finished-at="2021-05-06T02:38:07Z">
+  <suite name="Default suite" duration-ms="125" started-at="2021-07-19T03:32:09Z" finished-at="2021-07-19T03:32:10Z">
     <groups>
     </groups>
-    <test name="Banking Test" duration-ms="69074" started-at="2021-05-06T02:36:58Z" finished-at="2021-05-06T02:38:07Z">
-      <class name="com.inetBanking.testCase.TC_LoginDDT_002">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="setup" is-config="true" duration-ms="17194" started-at="2021-05-06T08:06:59Z" finished-at="2021-05-06T08:07:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="125" started-at="2021-07-19T03:32:09Z" finished-at="2021-07-19T03:32:10Z">
+      <class name="com.inetBanking.testCase.TC_AddCustomerTest_003">
+        <test-method status="FAIL" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_AddCustomerTest_003@50c87b21]" name="setup" is-config="true" duration-ms="0" started-at="2021-07-19T09:02:09Z" finished-at="2021-07-19T09:02:09Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by @Configuration on method setup but has not been marked @Optional or defined
+in C:\Users\NARESH KUMAR\AppData\Local\Temp\testng-eclipse-614699524\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by @Configuration on method setup but has not been marked @Optional or defined
+in C:\Users\NARESH KUMAR\AppData\Local\Temp\testng-eclipse-614699524\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:155)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:86)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:199)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:175)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:107)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="loginDDT" duration-ms="10717" started-at="2021-05-06T08:07:20Z" data-provider="LoginData" finished-at="2021-05-06T08:07:31Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr323831]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[YpEdUdA]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="SKIP" signature="addNewCustomer()[pri:0, instance:com.inetBanking.testCase.TC_AddCustomerTest_003@50c87b21]" name="addNewCustomer" duration-ms="15" started-at="2021-07-19T09:02:10Z" finished-at="2021-07-19T09:02:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="loginDDT" duration-ms="9982" started-at="2021-05-06T08:07:31Z" data-provider="LoginData" finished-at="2021-05-06T08:07:41Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr324128]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[puzybEq]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="loginDDT" duration-ms="5444" started-at="2021-05-06T08:07:41Z" data-provider="LoginData" finished-at="2021-05-06T08:07:46Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr32410]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[UzAtuzE]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="loginDDT" duration-ms="10079" started-at="2021-05-06T08:07:46Z" data-provider="LoginData" finished-at="2021-05-06T08:07:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr323831]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[YpEdUdA]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="loginDDT" duration-ms="9904" started-at="2021-05-06T08:07:56Z" data-provider="LoginData" finished-at="2021-05-06T08:08:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr324130]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[umarUzu]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCase.TC_LoginDDT_002@6e6c3152]" name="tearDown" is-config="true" duration-ms="1199" started-at="2021-05-06T08:08:06Z" finished-at="2021-05-06T08:08:07Z">
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.inetBanking.testCase.TC_AddCustomerTest_003@50c87b21]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-07-19T09:02:10Z" finished-at="2021-07-19T09:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.inetBanking.testCase.TC_LoginDDT_002 -->
-    </test> <!-- Banking Test -->
-  </suite> <!-- inetBankingV1 -->
+      </class> <!-- com.inetBanking.testCase.TC_AddCustomerTest_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
