@@ -11,6 +11,8 @@
 			<classes> 
 				 <class name = "com.inetBanking.testCase.TC_LoginTest_001"/>  -->
 				<class name = "com.inetBanking.testCase.TC_LoginDDT_002"/>
+				<class name = "com.inetBanking.testCase.TC_AddCustomerTest_003"/>
+				
 				
 			</classes>
 		</parameter>
