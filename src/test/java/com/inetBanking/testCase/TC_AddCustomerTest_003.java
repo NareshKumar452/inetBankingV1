@@ -23,7 +23,7 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 		
 		logger.info("Entering all Customer details");
 		
-		//AddCustomerPage addcust = new AddCustomerPage(driver);
+		AddCustomerPage addcust = new AddCustomerPage(driver);
 		addcust.clickCreateNewCustomer();
 		addcust.setCustomeName("pavan");
 		addcust.setDateOfBirth("01", "01", "98");
